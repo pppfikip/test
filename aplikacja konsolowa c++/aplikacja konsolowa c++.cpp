@@ -1,7 +1,13 @@
 ﻿#include "pch.h"
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n"; 
+   cout << "Hello World!\n"; 
+   return 0;
+   int ben;
+   cin >> ben;
+
 }
